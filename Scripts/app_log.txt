@@ -1,0 +1,5 @@
+2024-10-03 22:42:43,012 - ERROR - Error applying initial styles: setStyleSheet(self, styleSheet: Optional[str]): argument 1 has unexpected type 'ellipsis'
+2024-10-03 22:43:10,752 - ERROR - Error applying new theme: setStyleSheet(self, styleSheet: Optional[str]): argument 1 has unexpected type 'ellipsis'
+2024-10-03 22:43:22,940 - ERROR - Error applying initial styles: setStyleSheet(self, styleSheet: Optional[str]): argument 1 has unexpected type 'ellipsis'
+2024-10-03 22:46:47,469 - ERROR - Initialization error: name 'QSizePolicy' is not defined
+2024-10-03 22:47:06,182 - ERROR - Error applying initial styles: setStyleSheet(self, styleSheet: Optional[str]): argument 1 has unexpected type 'ellipsis'
