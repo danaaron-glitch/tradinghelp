@@ -50,7 +50,7 @@ ticker_full_names = {
     "GS": "The Goldman Sachs Group, Inc.",
     "XOM": "Exxon Mobil Corporation",
     "CVX": "Chevron Corporation",
-    "PBR": "Petrobras",
+    "PBR": "Petróleo Brasileiro S.A. - Petrobras",
     "BP": "BP p.l.c.",
     "TOT": "TotalEnergies SE"
 }
